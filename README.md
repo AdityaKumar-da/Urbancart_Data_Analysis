@@ -6,7 +6,7 @@ through the full analyst workflow — data generation & cleaning, SQL analysis,
 statistical testing, customer segmentation, retention analysis, and an
 executive-facing interactive dashboard.
 
-**[Open the interactive dashboard →](dashboard/index.html)**
+**[Open the interactive dashboard →](https://github.com/AdityaKumar-da/Urbancart_Data_Analysis/blob/main/index.html)**
 
 ---
 
