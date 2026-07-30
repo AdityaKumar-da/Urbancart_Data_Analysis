@@ -1,0 +1,2 @@
+control_n,variant_n,control_conv_rate,variant_conv_rate,absolute_lift,relative_lift_pct,z_stat,p_value,ci_95_low,ci_95_high,significant_at_05,projected_incremental_revenue
+781,719,0.0896,0.1127,0.023,25.69,1.481,0.1387,-0.0076,0.0536,False,6633.0
